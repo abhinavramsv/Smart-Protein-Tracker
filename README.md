@@ -17,6 +17,9 @@ I built a **Market-Aware Nutrition Engine** that:
 2.  **Scrapes** real-time market prices for commodities (Eggs & Chicken) to benchmark user spending against national averages.
 3.  **Adapts** to network failures using a fault-tolerant architecture.
 
+   ## 📸 Dashboard Preview
+![Smart Protein Tracker Dashboard](dashboard.png)
+
 ---
 
 ## 🛠️ Key Features
